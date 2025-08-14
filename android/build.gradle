@@ -22,6 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'com.g123k.flutterappbadger'
     compileSdkVersion 29
 
     defaultConfig {
